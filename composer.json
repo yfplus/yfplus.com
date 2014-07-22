@@ -1,0 +1,17 @@
+{
+    "name": "yfplus/yfplus.com",
+    "description": "YFPlus Official Website",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "laravel/laravel": "v4.2.0",
+        "barryvdh/laravel-ide-helper": "v1.10.0",
+        "way/generators": "2.6.1"
+    }
+}
